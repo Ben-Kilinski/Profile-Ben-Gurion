@@ -9,3 +9,14 @@ footer{
     background-color: black;
     color: #f00;
 }
+section p{
+    color:#f00;
+    text-shadow: 50px 10px;
+    
+}
+header p1,p3,p5{
+    color: orange;
+}
+header p2,p4{
+    color:yellow;
+}

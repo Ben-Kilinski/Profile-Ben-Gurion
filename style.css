@@ -1,0 +1,10 @@
+header{
+    height: 10%;
+    background-color: blue;
+    color:white
+}
+footer{
+    height: 13%;
+    background-color: black;
+    color: #f00;
+}

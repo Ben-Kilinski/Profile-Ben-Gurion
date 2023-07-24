@@ -20,3 +20,7 @@ header p1,p3,p5{
 header p2,p4{
     color:yellow;
 }
+section a{
+    color: green;
+    text-decoration: none;
+}
